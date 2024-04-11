@@ -1,5 +1,5 @@
 const responses = {
-  "": `CON Ikaze kumurongo uguha amakuru kurwara y’   
+  "": `CON Amakuru kurwara y' umuvuduko w' amaraso  
         1. Igitera umuvuduko w’amaraso
         2. Kwirinda umuvuduko w’amaraso
         3. Ibimenyesto by’umuvuduko w’amaraso
@@ -10,7 +10,7 @@ const responses = {
         3. Itabi
         4. Umubyibuho ukabije
         5. Kudakora siporo
-        99. Subira inyuma`,
+        0. Subira inyuma`,
   2: `CON Ubahiriza:
         1. Kurya imboga n'imbuto nyinshi
         2. Gabanya igihe umara w'icaye
@@ -49,7 +49,7 @@ const responses = {
         2. Uburwayi bw’umutima
         3. Kunanirwa k'umutima
         4. Urupfu rutunguranye.
-        99. Subira inyuma`,
+        0. Subira inyuma`,
 };
 
 module.exports = responses;
